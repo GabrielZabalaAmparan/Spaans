@@ -252,14 +252,14 @@ text-decoration:none;
   width: 290px;
   border-radius: 5%;
 }
+}
 
-@media (max-width: 768px) {
-  .home-image {
-        width: 205px;
-        margin-top: 19em;
-        margin-left: 0.5em;
-        border-radius: 5%;
-  }
+@media (max-width: 768px)
+.home-image {
+    width: 205px;
+    margin-top: 22em;
+    margin-left: -1.7em;
+    border-radius: 5%;
 }
 
 @media (max-width: 768px) {
